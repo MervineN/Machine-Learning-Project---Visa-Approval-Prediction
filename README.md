@@ -1,1 +1,1 @@
-# Machine-Learning-Project---Visa-Approval-Prediction
+# Machine Learning Project - Visa-Approval Prediction
