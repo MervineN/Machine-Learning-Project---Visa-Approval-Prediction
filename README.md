@@ -1,5 +1,20 @@
-# Machine Learning Project - EasyVisa Prediction
-## Context: Business communities in the United States are facing high demand for human resources, but one of the constant challenges is identifying and attracting the right talent, which is perhaps the most important element in remaining competitive. Companies in the United States look for hard-working, talented, and qualified individuals both locally as well as abroad.The Immigration and Nationality Act (INA) of the US permits foreign workers to come to the United States to work on either a temporary or permanent basis. The act also protects US workers against adverse impacts on their wages or working conditions by ensuring US employers' compliance with statutory requirements when they hire foreign workers to fill workforce shortages. The immigration programs are administered by the Office of Foreign Labor Certification (OFLC).OFLC processes job certification applications for employers seeking to bring foreign workers into the United States and grants certifications in those cases where employers can demonstrate that there are not sufficient US workers available to perform the work at wages that meet or exceed the wage paid for the occupation in the area of intended employment.
-## Objective: In FY 2016, the OFLC processed 775,979 employer applications for 1,699,957 positions for temporary and permanent labor certifications. This was a nine percent increase in the overall number of processed applications from the previous year. The process of reviewing every case is becoming a tedious task as the number of applicants is increasing every year.The increasing number of applicants every year calls for a Machine Learning **based solution that can help in shortlisting the candidates having higher chances of VISA approval**. OFLC has hired your firm EasyVisa for data-driven solutions. You as a data scientist **have to analyze the data provided and, with the help of a classification model**:
-## 1)Facilitate the process of visa approvals.
-## 2)Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status.
+![Slide1](https://user-images.githubusercontent.com/120951914/210797268-33821d68-b813-436a-bd29-973cf40024e9.jpg)
+![Slide2](https://user-images.githubusercontent.com/120951914/210797290-aed4a48b-6f35-45f6-887a-c3c92e7836cf.jpg)
+![Slide3](https://user-images.githubusercontent.com/120951914/210797356-807e92d2-d4af-4456-872b-da1a8e6f5116.jpg)
+![Slide4](https://user-images.githubusercontent.com/120951914/210797385-05f8a7d3-72c8-40a2-9bf2-82143487099c.jpg)
+![Slide5](https://user-images.githubusercontent.com/120951914/210797515-804ca6ed-7814-40d5-bb3a-8fa8d7036e86.jpg)
+![Slide6](https://user-images.githubusercontent.com/120951914/210797549-05a3d083-2583-4bfd-bdaa-438476758010.jpg)
+![Slide7](https://user-images.githubusercontent.com/120951914/210797576-9913e9b2-c6c3-43ca-a839-f204065e8fa0.jpg)
+![Slide8](https://user-images.githubusercontent.com/120951914/210797630-00731c80-d215-4883-98c4-2b11587b4dca.jpg)
+![Slide9](https://user-images.githubusercontent.com/120951914/210797651-fbb368ec-288b-4098-93ac-f4c629f565c6.jpg)
+![Slide10](https://user-images.githubusercontent.com/120951914/210797837-4e888cae-8d0e-470b-a73e-025d8f353091.jpg)
+![Slide11](https://user-images.githubusercontent.com/120951914/210797910-ada1b5e9-bd67-4766-a66c-75fd8e3b994b.jpg)
+![Slide12](https://user-images.githubusercontent.com/120951914/210797937-8fbdfbdf-aff4-4b9b-a641-f1872887b65a.jpg)
+![Slide13](https://user-images.githubusercontent.com/120951914/210798047-c5b69fd4-b8b6-4606-aeed-f89724d6c535.jpg)
+![Slide14](https://user-images.githubusercontent.com/120951914/210798077-93ac6d0a-7189-48cc-8e3f-797fc5625d01.jpg)
+![Slide15](https://user-images.githubusercontent.com/120951914/210798089-449bf60b-df50-4548-966c-a81d7a680811.jpg)
+![Slide16](https://user-images.githubusercontent.com/120951914/210798104-70019d5f-cce9-4141-8d2f-bb314c867b68.jpg)
+![Slide17](https://user-images.githubusercontent.com/120951914/210798116-17ba5e20-4efc-4f5d-99ed-8d8fb42d3299.jpg)
+![Slide18](https://user-images.githubusercontent.com/120951914/210798183-4322210e-2bc3-45c9-9d49-ce57a8a9fb2a.jpg)
+![Slide19](https://user-images.githubusercontent.com/120951914/210798240-cb4d88e5-3e57-4421-bd71-80a7ee45c067.jpg)
+![Slide20](https://user-images.githubusercontent.com/120951914/210798261-5328e31d-4dd1-4b49-8948-42b2f6e410f5.jpg)
